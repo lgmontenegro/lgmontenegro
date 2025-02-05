@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leonardo Montenegro</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently not working on **any projects**
-
-- 🌱 I’m currently learning **Golang, WordPress, WooCommerce**
-
-- 👯 I’m looking to collaborate on **Golang projects**
-
-- 💬 Ask me about **PHP**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;
